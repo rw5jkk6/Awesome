@@ -7,7 +7,7 @@
 - テストについて
   - テストの仕様
     - ファイル名は xxx_test.goとする
-    - 関数名には  func TestX(t *testing.T)とする
+    - 関数名には  func TestXxx(t *testing.T)とする
   - テストの実行(-vは詳細の出力)
     - mainパッケージ　　　 go test -v
     - anmialsパッケージ　　　go test -v ./animals  
