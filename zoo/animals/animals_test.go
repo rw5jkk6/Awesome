@@ -1,7 +1,6 @@
 package animals
 
 import (
-	"internal/testlog"
 	"testing"
 )
 
