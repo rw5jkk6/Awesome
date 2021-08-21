@@ -1,6 +1,6 @@
-# zoo
-- スターティングGo cf31~38より
+# Goのパッケージ
 - １つのディレクトリには１つのパッケージ名しか作ることができない
+- ディレクトリとパッケージ名は同じにする
 - 実行の仕方
   - go run *.go　または go run main.go animals.go 
   - go build
@@ -11,3 +11,7 @@
   - テストの実行(-vは詳細の出力)
     - mainパッケージ　　　 go test -v
     - anmialsパッケージ　　　go test -v ./animals  
+# zoo
+- スターティングGo cf31~38より
+# awesomeproject
+- 覚える
